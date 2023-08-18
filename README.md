@@ -24,15 +24,16 @@ Original 280 lines Stephen Brennan ( very simples c code Shell )
 Current  1120 lines Joao Carvalho  ( A screen reader shell )
 ``````
 
-## url
+## urls
 ```
-Original - Stephen Brennan - Tutorial - Write a Shell in C \br
+Original version:
+           Stephen Brennan - Tutorial - Write a Shell in C \br
            https://brennan.io/2015/01/16/write-a-shell-in-c/
           
            github - brenns10 / lsh
            https://github.com/brenns10/lsh
 
-           Current:
+Current version:
            Github  - joaocarvalhoopen - pina_shell
            https://github.com/joaocarvalhoopen/pina_shell--A-screen-reader-shell-for-Linux          
 ``````
