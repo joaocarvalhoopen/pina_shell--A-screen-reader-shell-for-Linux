@@ -22,7 +22,7 @@ $ ./pina_shell
 ```
 Original 280 lines Stephen Brennan ( very simples c code Shell )
 Current  1120 lines Joao Carvalho  ( A screen reader shell )
-``````
+```
 
 ## urls
 ```
@@ -36,11 +36,13 @@ Original version:
 Current version:
            Github  - joaocarvalhoopen - pina_shell
            https://github.com/joaocarvalhoopen/pina_shell--A-screen-reader-shell-for-Linux          
-``````
+```
 
 ##  Brief
+```
 Original: LSH (Libstephen Shell)
 Current:  pina_shell ( A screen reader shell for Linux )
+```
 
 ## License
 MIT Open Source License
