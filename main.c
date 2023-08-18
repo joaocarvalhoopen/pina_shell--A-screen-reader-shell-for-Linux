@@ -1029,7 +1029,7 @@ void lsh_loop(void)
     printf("Second element: %s\n", list_get_at(&list, 1));
   */
 
-  speak_audio("Pina shell's is ready.");
+  speak_audio("Pina shells is ready.");
   
   // jnc end
 
